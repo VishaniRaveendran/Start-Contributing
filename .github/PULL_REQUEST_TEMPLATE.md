@@ -1,7 +1,7 @@
 ## Description
-<!-- Please provide a summary of your changes. Include the motivation behind the changes and link to any relevant issues. This section should provide enough information for anyone reviewing your PR to understand what's being changed and why. -->
-
 <!-- Describe the changes made in the PR -->
+
+*Describe your changes here*
 
 ## Category (If Applicable)
 
