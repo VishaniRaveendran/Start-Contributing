@@ -1,7 +1,7 @@
 ## Description
 <!-- Describe the changes made in the PR -->
 
-*Describe your changes here*
+<!-- Describe the changes made in the PR -->
 
 ## Category (If Applicable)
 
